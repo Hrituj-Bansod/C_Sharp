@@ -151,54 +151,7 @@ namespace Basics
                 }
             }
         }
-        public void ArrayExample()
-        {
-            string[] array = { "Hrituj", "Bansod", "Mumbai", "BridgeLabzz" };
-            String accesseed = array[0];
-            Console.WriteLine(accesseed);
-            Console.WriteLine("\n" + "Using foreach loop:");
-            foreach (string item in array)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("It can be sorted using sort method as :");
-
-            int[] num = { 10, 4, 7, 2, 8, 1 };
-            Array.Sort(num);
-            foreach (int item in num)
-            {
-                Console.WriteLine(item);
-            }
-        }
-        public void MultiDimArray() 
-        {
-            int[,] arr = { { 5, 4, 3 }, { 9, 8, 7 } };
-            Console.WriteLine(arr[0,2]);
-
-            Console.WriteLine("Original array is: ");
-            for (int i = 0; i < arr.GetLength(0); i++) 
-            {
-                for (int j = 0; j < arr.GetLength(1); j++) 
-                {
-                    Console.Write(arr[i , j]+" ");
-                }
-            }
-            Console.WriteLine("\nAfter modifing : ");
-            arr[0, 0] = 6;
-            arr[0,1] = 7;
-            arr[0,2] = 8;
-            arr[1, 0] = 0;
-            arr[1, 1] = 1;
-            arr[1,2] = 2;
-            for (int i = 0; i < arr.GetLength(0); i++) 
-            {
-                for (int j = 0; j < arr.GetLength(1); j++) 
-                {
-                    Console.Write(arr[i , j]+" ");
-                }
-            }
-        }
-
+        
         static void Main(string[] args)
         {
             Program b = new Program();
@@ -212,8 +165,8 @@ namespace Basics
             //b.SwitchPract();
             //b.WhileTry();
             //b.ForExample();
-            //b.ArrayExample();
-            b.MultiDimArray();
+            
+            
         }
     }
 }
