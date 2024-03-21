@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D61E3ED6-BBF1-451E-B258-D8778AF224A0}|Queueee\\Queueee.csproj|c:\\users\\hrituj bansod\\desktop\\c#\\datastructures\\queueee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61E3ED6-BBF1-451E-B258-D8778AF224A0}|Queueee\\Queueee.csproj|solutionrelative:queueee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B09CF84D-7914-4DBA-843E-98E81D2F1FCA}|Stackkk\\Stackkk.csproj|c:\\users\\hrituj bansod\\desktop\\c#\\datastructures\\stackkk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B09CF84D-7914-4DBA-843E-98E81D2F1FCA}|Stackkk\\Stackkk.csproj|solutionrelative:stackkk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Stackkk\\Program.cs",
               "RelativeDocumentMoniker": "Stackkk\\Program.cs",
               "ToolTip": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Stackkk\\Program.cs",
               "RelativeToolTip": "Stackkk\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDEAAAAoAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:21:05.516Z",
+              "WhenOpened": "2024-03-21T11:36:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Queueee\\Program.cs",
+              "RelativeDocumentMoniker": "Queueee\\Program.cs",
+              "ToolTip": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Queueee\\Program.cs",
+              "RelativeToolTip": "Queueee\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:56:46.088Z",
               "EditorCaption": ""
             }
           ]

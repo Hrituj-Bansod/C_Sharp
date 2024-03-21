@@ -1,0 +1,14 @@
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\bin\Debug\netcoreapp3.1\Queueee.exe
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\bin\Debug\netcoreapp3.1\Queueee.deps.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\bin\Debug\netcoreapp3.1\Queueee.runtimeconfig.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\bin\Debug\netcoreapp3.1\Queueee.runtimeconfig.dev.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\bin\Debug\netcoreapp3.1\Queueee.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\bin\Debug\netcoreapp3.1\Queueee.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.AssemblyInfoInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.AssemblyInfo.cs
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.csproj.CoreCompileInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.sourcelink.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Queueee\obj\Debug\netcoreapp3.1\Queueee.genruntimeconfig.cache
