@@ -1,0 +1,14 @@
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\bin\Debug\netcoreapp3.1\Stackkk.exe
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\bin\Debug\netcoreapp3.1\Stackkk.deps.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\bin\Debug\netcoreapp3.1\Stackkk.runtimeconfig.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\bin\Debug\netcoreapp3.1\Stackkk.runtimeconfig.dev.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\bin\Debug\netcoreapp3.1\Stackkk.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\bin\Debug\netcoreapp3.1\Stackkk.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.AssemblyInfoInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.AssemblyInfo.cs
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.csproj.CoreCompileInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.sourcelink.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Stackkk\obj\Debug\netcoreapp3.1\Stackkk.genruntimeconfig.cache
