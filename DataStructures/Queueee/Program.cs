@@ -31,7 +31,18 @@ namespace Queueee
             {
                 Console.WriteLine(item);
             }
-            
+
+            Console.WriteLine("\n Checking equals method : "+cloned.Equals(queue));
+            Object [] obj = queue.ToArray();
+            foreach (var item in obj) 
+            {
+                Console.Write($"[{item}]");
+            }
+            // s = cloned.ToString();
+            // Console.WriteLine("\n"+s.ToString());            // printing adress
+            Console.WriteLine("\n"+cloned.ToString());          //printng adress insted of string
+
+
         }
         static void Main(string[] args)
         {
