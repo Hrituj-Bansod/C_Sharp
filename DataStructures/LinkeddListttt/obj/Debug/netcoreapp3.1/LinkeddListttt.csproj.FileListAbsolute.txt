@@ -1,0 +1,14 @@
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\bin\Debug\netcoreapp3.1\LinkeddListttt.exe
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\bin\Debug\netcoreapp3.1\LinkeddListttt.deps.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\bin\Debug\netcoreapp3.1\LinkeddListttt.runtimeconfig.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\bin\Debug\netcoreapp3.1\LinkeddListttt.runtimeconfig.dev.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\bin\Debug\netcoreapp3.1\LinkeddListttt.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\bin\Debug\netcoreapp3.1\LinkeddListttt.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.AssemblyInfoInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.AssemblyInfo.cs
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.csproj.CoreCompileInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.sourcelink.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\LinkeddListttt\obj\Debug\netcoreapp3.1\LinkeddListttt.genruntimeconfig.cache

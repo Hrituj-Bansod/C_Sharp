@@ -1,0 +1,14 @@
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\bin\Debug\netcoreapp3.1\Dictionaryyyyy.exe
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\bin\Debug\netcoreapp3.1\Dictionaryyyyy.deps.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\bin\Debug\netcoreapp3.1\Dictionaryyyyy.runtimeconfig.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\bin\Debug\netcoreapp3.1\Dictionaryyyyy.runtimeconfig.dev.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\bin\Debug\netcoreapp3.1\Dictionaryyyyy.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\bin\Debug\netcoreapp3.1\Dictionaryyyyy.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.AssemblyInfoInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.AssemblyInfo.cs
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.csproj.CoreCompileInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.sourcelink.json
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.dll
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\DataStructures\Dictionaryyyyy\obj\Debug\netcoreapp3.1\Dictionaryyyyy.genruntimeconfig.cache

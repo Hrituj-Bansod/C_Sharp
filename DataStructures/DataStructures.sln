@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stackkk", "Stackkk\Stackkk.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queueee", "Queueee\Queueee.csproj", "{D61E3ED6-BBF1-451E-B258-D8778AF224A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashsettttt", "Hashsettttt\Hashsettttt.csproj", "{A4AA4C0D-A49B-4C4E-A089-3D9A8F31EEC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashsettttt", "Hashsettttt\Hashsettttt.csproj", "{A4AA4C0D-A49B-4C4E-A089-3D9A8F31EEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaryyyyy", "Dictionaryyyyy\Dictionaryyyyy.csproj", "{7B88FAA2-7909-4395-AC2C-E411A67E9361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkeddListttt", "LinkeddListttt\LinkeddListttt.csproj", "{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{A4AA4C0D-A49B-4C4E-A089-3D9A8F31EEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4AA4C0D-A49B-4C4E-A089-3D9A8F31EEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4AA4C0D-A49B-4C4E-A089-3D9A8F31EEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B88FAA2-7909-4395-AC2C-E411A67E9361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B88FAA2-7909-4395-AC2C-E411A67E9361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B88FAA2-7909-4395-AC2C-E411A67E9361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B88FAA2-7909-4395-AC2C-E411A67E9361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,7 @@ namespace HashTableeee
         public void Hashtableeee() 
         {
             Hashtable hst = new Hashtable();
-            hst.Add(1 , "Hrituj");
+            hst.Add( , "Hrituj");
             hst.Add(2 , "bansod");
             hst.Add(3 , "Mumbai");
             hst.Add(4 , "Bridgelabzz");
