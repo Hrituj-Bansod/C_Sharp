@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D85A4296-9331-424E-A04F-2B3DC53C7FAA}|HashSetttt\\HashSetttt.csproj|c:\\users\\hrituj bansod\\desktop\\c#\\datastructures\\hashsetttt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A4296-9331-424E-A04F-2B3DC53C7FAA}|HashSetttt\\HashSetttt.csproj|solutionrelative:hashsetttt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}|LinkeddListttt\\LinkeddListttt.csproj|c:\\users\\hrituj bansod\\desktop\\c#\\datastructures\\linkeddlistttt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E13E600-8B08-4B8B-B00F-EA2147A8B8FC}|LinkeddListttt\\LinkeddListttt.csproj|solutionrelative:linkeddlistttt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,24 +38,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\HashSetttt\\Program.cs",
+              "RelativeDocumentMoniker": "HashSetttt\\Program.cs",
+              "ToolTip": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\HashSetttt\\Program.cs",
+              "RelativeToolTip": "HashSetttt\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:20:08.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\LinkeddListttt\\Program.cs",
               "RelativeDocumentMoniker": "LinkeddListttt\\Program.cs",
               "ToolTip": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\LinkeddListttt\\Program.cs",
               "RelativeToolTip": "LinkeddListttt\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T11:25:16.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Dictionaryyyyy\\Program.cs",
               "RelativeDocumentMoniker": "Dictionaryyyyy\\Program.cs",
@@ -59,12 +80,11 @@
               "RelativeToolTip": "Dictionaryyyyy\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T10:19:00.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T10:19:00.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\HashTable\\Program.cs",
               "RelativeDocumentMoniker": "HashTable\\Program.cs",
@@ -72,12 +92,11 @@
               "RelativeToolTip": "HashTable\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T08:43:37.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T08:43:37.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Hashsettttt\\Program.cs",
               "RelativeDocumentMoniker": "Hashsettttt\\Program.cs",
@@ -89,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Stackkk\\Program.cs",
               "RelativeDocumentMoniker": "Stackkk\\Program.cs",
@@ -101,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hrituj Bansod\\Desktop\\C#\\DataStructures\\Queueee\\Program.cs",
               "RelativeDocumentMoniker": "Queueee\\Program.cs",

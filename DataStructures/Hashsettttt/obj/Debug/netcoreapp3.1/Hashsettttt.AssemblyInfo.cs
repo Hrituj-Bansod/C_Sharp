@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hashsettttt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54fa4a2f65f1a16e08d08e54590801da0f06a700")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+421ccce470ff6424269b50e970f8f558beb1972c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hashsettttt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hashsettttt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
