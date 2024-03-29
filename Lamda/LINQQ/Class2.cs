@@ -6,9 +6,9 @@ using System.Text;
 
 namespace LINQQ
 {
-    internal class Test
+    internal class Test 
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             Student s1 = new Student();
             s1.id = 11;
@@ -27,13 +27,16 @@ namespace LINQQ
             ll.Add(s1);
             ll.Add(s2);
 
-            List<Student> newlist = ll.Select(student => student).ToList();
-            //List<Student> newlist = ll.Where(student => student.id == 11).ToList();
+            List<Student> newlist = ll.Select(student => student).ToList();  // gets all students
+
+            
+
+            //List<Student> newlist = ll.Where(student => student.id == 11).ToList();       gets student with id 11
 
             foreach (Student item in newlist)
             {
                 Console.WriteLine(item);
-            }
+            }*/
         }
 
         
