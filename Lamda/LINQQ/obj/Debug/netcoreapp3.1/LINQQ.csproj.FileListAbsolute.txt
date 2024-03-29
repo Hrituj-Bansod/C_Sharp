@@ -1,0 +1,14 @@
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\bin\Debug\netcoreapp3.1\LINQQ.exe
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\bin\Debug\netcoreapp3.1\LINQQ.deps.json
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\bin\Debug\netcoreapp3.1\LINQQ.runtimeconfig.json
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\bin\Debug\netcoreapp3.1\LINQQ.runtimeconfig.dev.json
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\bin\Debug\netcoreapp3.1\LINQQ.dll
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\bin\Debug\netcoreapp3.1\LINQQ.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.AssemblyInfoInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.AssemblyInfo.cs
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.csproj.CoreCompileInputs.cache
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.sourcelink.json
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.dll
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.pdb
+C:\Users\Hrituj Bansod\Desktop\C#\Lamda\LINQQ\obj\Debug\netcoreapp3.1\LINQQ.genruntimeconfig.cache
